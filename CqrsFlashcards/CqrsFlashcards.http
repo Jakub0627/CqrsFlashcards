@@ -1,0 +1,6 @@
+@CqrsFlashcards_HostAddress = http://localhost:5275
+
+GET {{CqrsFlashcards_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
